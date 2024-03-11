@@ -1,0 +1,14 @@
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\bin\Debug\net8.0\Ispit.Konzola.exe
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\bin\Debug\net8.0\Ispit.Konzola.deps.json
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\bin\Debug\net8.0\Ispit.Konzola.runtimeconfig.json
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\bin\Debug\net8.0\Ispit.Konzola.dll
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\bin\Debug\net8.0\Ispit.Konzola.pdb
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.AssemblyInfoInputs.cache
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.AssemblyInfo.cs
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.csproj.CoreCompileInputs.cache
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.dll
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\obj\Debug\net8.0\refint\Ispit.Konzola.dll
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.pdb
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.genruntimeconfig.cache
+C:\Users\Zvonimir\source\repos\NOVI\Parijacli ispit\Ispit.Konzola\obj\Debug\net8.0\ref\Ispit.Konzola.dll
